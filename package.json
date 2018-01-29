@@ -1,7 +1,6 @@
 {
-  "name": "angular-bootstrap-slider",
-  "version": "0.1.26",
-  "description": "An angular directive for seiyria-bootstrap-slider",
+  "name": "@gannettdigital/angular-bootstrap-slider",
+  "version": "1.0.0",
   "main": "slider.js",
   "devDependencies": {
     "http-server": "^0.8.5",
@@ -19,15 +18,5 @@
     "update-webdriver": "webdriver-manager update",
     "preprotractor": "npm run update-webdriver",
     "protractor": "protractor e2e-tests/protractor.conf.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/seiyria/angular-bootstrap-slider.git"
-  },
-  "author": "Kyle Kemp <kyle@seiyria.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/seiyria/angular-bootstrap-slider/issues"
-  },
-  "homepage": "https://github.com/seiyria/angular-bootstrap-slider#readme"
+  }
 }
